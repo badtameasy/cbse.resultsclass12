@@ -1,11 +1,11 @@
 // result.js
 const subjects = [
-  { code: '184', name: 'ENGLISH LNG & LIT.', isAdditional: false },
-  { code: '085', name: 'HINDI COURSE-B', isAdditional: false },
-  { code: '041', name: 'MATHEMATICS STANDARD', isAdditional: false },
-  { code: '086', name: 'SCIENCE', isAdditional: false },
-  { code: '087', name: 'SOCIAL SCIENCE', isAdditional: false },
-  { code: '004', name: 'INFORMATION TECHNOLOGY', isAdditional: true }
+  { code: '301', name: 'ENGLISH CORE', isAdditional: false },
+  { code: '065', name: 'INFORMATION PRACTICES', isAdditional: false },
+  { code: '041', name: 'MATHEMATICS ', isAdditional: false },
+  { code: '042', name: 'PHYSICS', isAdditional: false },
+  { code: '043', name: 'CHEMISTRY', isAdditional: false },
+  { code: '845', name: 'PHYSICAL ACTIVITY TRAINER', isAdditional: true }
 ];
 
 function gradeFromTotal(t) {
